@@ -1,0 +1,8 @@
+C:\Users\nawar\source\repos\EnumStruct\EnumStruct\bin\Debug\EnumStruct.exe.config
+C:\Users\nawar\source\repos\EnumStruct\EnumStruct\bin\Debug\EnumStruct.exe
+C:\Users\nawar\source\repos\EnumStruct\EnumStruct\bin\Debug\EnumStruct.pdb
+C:\Users\nawar\source\repos\EnumStruct\EnumStruct\obj\Debug\EnumStruct.csproj.AssemblyReference.cache
+C:\Users\nawar\source\repos\EnumStruct\EnumStruct\obj\Debug\EnumStruct.csproj.SuggestedBindingRedirects.cache
+C:\Users\nawar\source\repos\EnumStruct\EnumStruct\obj\Debug\EnumStruct.csproj.CoreCompileInputs.cache
+C:\Users\nawar\source\repos\EnumStruct\EnumStruct\obj\Debug\EnumStruct.exe
+C:\Users\nawar\source\repos\EnumStruct\EnumStruct\obj\Debug\EnumStruct.pdb
