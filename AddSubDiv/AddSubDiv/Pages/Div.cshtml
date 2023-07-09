@@ -1,0 +1,15 @@
+﻿@page
+@model AddSubDiv.Pages.DivModel
+@{
+}
+
+<form method="post">
+
+
+    Enter number 1:<input type="number" asp-for="Number1" /><br />
+    Enter number 2:<input type="number" asp-for="Number2" />
+    <br />
+    <input type="submit" value="Div" />
+</form>
+
+Result(Division):@Model.Result
