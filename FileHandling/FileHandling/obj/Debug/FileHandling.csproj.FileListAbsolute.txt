@@ -1,0 +1,8 @@
+C:\Users\nawar\source\repos\FileHandling\FileHandling\bin\Debug\FileHandling.exe.config
+C:\Users\nawar\source\repos\FileHandling\FileHandling\bin\Debug\FileHandling.exe
+C:\Users\nawar\source\repos\FileHandling\FileHandling\bin\Debug\FileHandling.pdb
+C:\Users\nawar\source\repos\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.AssemblyReference.cache
+C:\Users\nawar\source\repos\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.SuggestedBindingRedirects.cache
+C:\Users\nawar\source\repos\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\nawar\source\repos\FileHandling\FileHandling\obj\Debug\FileHandling.exe
+C:\Users\nawar\source\repos\FileHandling\FileHandling\obj\Debug\FileHandling.pdb
