@@ -1,0 +1,8 @@
+C:\Users\nawar\source\repos\AbstractInter\AbstractInter\bin\Debug\AbstractInter.exe.config
+C:\Users\nawar\source\repos\AbstractInter\AbstractInter\bin\Debug\AbstractInter.exe
+C:\Users\nawar\source\repos\AbstractInter\AbstractInter\bin\Debug\AbstractInter.pdb
+C:\Users\nawar\source\repos\AbstractInter\AbstractInter\obj\Debug\AbstractInter.csproj.AssemblyReference.cache
+C:\Users\nawar\source\repos\AbstractInter\AbstractInter\obj\Debug\AbstractInter.csproj.SuggestedBindingRedirects.cache
+C:\Users\nawar\source\repos\AbstractInter\AbstractInter\obj\Debug\AbstractInter.csproj.CoreCompileInputs.cache
+C:\Users\nawar\source\repos\AbstractInter\AbstractInter\obj\Debug\AbstractInter.exe
+C:\Users\nawar\source\repos\AbstractInter\AbstractInter\obj\Debug\AbstractInter.pdb
