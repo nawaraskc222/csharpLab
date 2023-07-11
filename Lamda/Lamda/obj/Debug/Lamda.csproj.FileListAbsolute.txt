@@ -1,0 +1,8 @@
+C:\Users\nawar\source\repos\Lamda\Lamda\bin\Debug\Lamda.exe.config
+C:\Users\nawar\source\repos\Lamda\Lamda\bin\Debug\Lamda.exe
+C:\Users\nawar\source\repos\Lamda\Lamda\bin\Debug\Lamda.pdb
+C:\Users\nawar\source\repos\Lamda\Lamda\obj\Debug\Lamda.csproj.AssemblyReference.cache
+C:\Users\nawar\source\repos\Lamda\Lamda\obj\Debug\Lamda.csproj.SuggestedBindingRedirects.cache
+C:\Users\nawar\source\repos\Lamda\Lamda\obj\Debug\Lamda.csproj.CoreCompileInputs.cache
+C:\Users\nawar\source\repos\Lamda\Lamda\obj\Debug\Lamda.exe
+C:\Users\nawar\source\repos\Lamda\Lamda\obj\Debug\Lamda.pdb
