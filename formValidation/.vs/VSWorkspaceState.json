@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\formValidation",
+    "\\formValidation\\Pages",
+    "\\formValidation\\Pages\\Form",
+    "\\formValidation\\wwwroot",
+    "\\formValidation\\wwwroot\\lib",
+    "\\formValidation\\wwwroot\\lib\\jquery-validation",
+    "\\formValidation\\wwwroot\\lib\\jquery-validation\\dist"
+  ],
+  "SelectedNode": "\\formValidation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+  "PreviewInSolutionExplorer": false
+}
