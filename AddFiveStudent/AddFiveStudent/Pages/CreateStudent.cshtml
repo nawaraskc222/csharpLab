@@ -1,0 +1,13 @@
+﻿@page
+@model AddFiveStudent.Pages.CreateStudentModel
+@{
+}
+<form method="post">
+
+    enter name: <input name="Name" type="text" asp-for="Name" />
+    <input type="submit" value="submit" class="btn btn-success"/>
+         
+</form>
+
+five students:
+@Model.Name;
