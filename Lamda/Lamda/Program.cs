@@ -18,7 +18,7 @@ namespace Lamda
             var evenNumbers = numbers.FindAll(num => num % 2 == 0);
 
            
-            var squares = numbers.ConvertAll(num => num * num);
+            var squares = numbers.Select(num => num * num);
 
           
             Console.WriteLine("Even Numbers:");

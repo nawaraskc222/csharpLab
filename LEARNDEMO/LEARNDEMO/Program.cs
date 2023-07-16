@@ -1,36 +1,41 @@
 ﻿using System;
 using System.Management.Instrumentation;
+using System.Collections.Generic;
+using System.Collections;
+using System.Linq;
 
 namespace LEARNDEMO
 {
-    internal class Program
+
+    public interface Nawars
     {
-      
-         enum level
+        void Son();
+        void Daughter();
+    }
+
+
+    class ChoraChori: Nawars
+    {
+        public void Son()
         {
-            low,mid,high
+            Console.WriteLine("Dad,Bike");
         }
-        struct Name
+        public void Daughter()
         {
-            public int age;
-            public string AddName { get; set; }
-        }
-
-        static void Main(string[] args)
-            {
-            level n1 = level.high;
-            int n2 = (int)level.high;
-            Console.WriteLine(n1);
-            Console.WriteLine(n2);
-
-            Name n= new Name();
-            n.age = 90;
-
-            n.AddName = "Ram";
-                Console.WriteLine(n.AddName);
-                Console.WriteLine(n.age);
-
-        }
+            Console.WriteLine("Dady,Pink Shirt");
         }
     }
+     class Program 
+    {
+        
+        static void Main(string[] args)
+        {
+
+            ChoraChori c = new ChoraChori();
+            c.Son();
+            c.Daughter();   
+
+        }
+    }
+}
 

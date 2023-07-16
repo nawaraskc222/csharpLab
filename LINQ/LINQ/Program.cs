@@ -21,7 +21,6 @@ namespace LINQ
           
             List<Student> students = new List<Student>();
 
-          
             students.Add(new Student { FirstName = "Saksham", LastName = "Khanal", Address = "Lalitpur", College = "KCT" });
             students.Add(new Student { FirstName = "Bibke", LastName = "Karki", Address = "Kathmandu", College = "KCT" });
             students.Add(new Student { FirstName = "Roshan", LastName = "sth", Address = "Lalitpur", College = "BKT campus" });

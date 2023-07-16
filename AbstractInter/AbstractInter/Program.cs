@@ -7,14 +7,7 @@ using System.Threading.Tasks;
 namespace AbstractInter
 {
 
-    abstract class Animal
-    {
-        public abstract void Sound();
-        public void Eat()
-        {
-            Console.WriteLine("Eat:True");
-        }
-    }
+
     interface Vehicels
     {
         void Tires();
@@ -28,6 +21,17 @@ namespace AbstractInter
             Console.WriteLine("Bike has got two tires");
         }
     }
+
+
+    abstract class Animal
+    {
+        public abstract void Sound();
+        public void Eat()
+        {
+            Console.WriteLine("Eat:True");
+        }
+    }
+
 
     class Dog : Animal
     {

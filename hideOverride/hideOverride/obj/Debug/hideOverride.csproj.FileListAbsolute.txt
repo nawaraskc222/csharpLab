@@ -1,0 +1,8 @@
+C:\Users\nawar\source\repos\hideOverride\hideOverride\bin\Debug\hideOverride.exe.config
+C:\Users\nawar\source\repos\hideOverride\hideOverride\bin\Debug\hideOverride.exe
+C:\Users\nawar\source\repos\hideOverride\hideOverride\bin\Debug\hideOverride.pdb
+C:\Users\nawar\source\repos\hideOverride\hideOverride\obj\Debug\hideOverride.csproj.AssemblyReference.cache
+C:\Users\nawar\source\repos\hideOverride\hideOverride\obj\Debug\hideOverride.csproj.SuggestedBindingRedirects.cache
+C:\Users\nawar\source\repos\hideOverride\hideOverride\obj\Debug\hideOverride.csproj.CoreCompileInputs.cache
+C:\Users\nawar\source\repos\hideOverride\hideOverride\obj\Debug\hideOverride.exe
+C:\Users\nawar\source\repos\hideOverride\hideOverride\obj\Debug\hideOverride.pdb
