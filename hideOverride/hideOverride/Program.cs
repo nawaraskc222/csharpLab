@@ -8,14 +8,14 @@ namespace hideOverride
 {
     class parent
     {
-        public  virtual void Show()
+        public   void Show()
         {
             Console.WriteLine("Im parent");
         }
     }
     class child : parent
     {
-        public override void Show()
+        public new void Show()
         {
             Console.WriteLine("IM child and came from override");
         }
